@@ -1,7 +1,7 @@
 # Condição e Preço dos Veículos
 
 ## Descrição
-Este projeto o objetivo foi criar um **dashboard interativo** usando **Streamlit** para analisar dados de veículos e implantar o aplicativo na nuvem com o **Render**.
+O objetivo deste projeto foi criar um **dashboard interativo** usando **Streamlit** para analisar dados de veículos e implantar o aplicativo na nuvem com o **Render**.
 
 O dashboard permite:
 - Visualizar os primeiros registros do dataset.
