@@ -22,5 +22,5 @@ O dashboard permite:
 
 ## Autor
 **Elvis Jekir**  
-Estudante de Ciência de Dados – Vancouver, Canadá
+Estudante de Ciência de Dados
 # vehicle_dashboard
